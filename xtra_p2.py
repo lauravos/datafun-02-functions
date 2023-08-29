@@ -46,6 +46,17 @@ logger, logname = setup_logger(__file__)
 # TODO: Log each time the function is called (along with its arguments)
 # TODO: Log the result of each function just before you return the result
 
+def sum_two(number_1, number_2):
+    sum = number_1 + number_2
+    return sum 
+
+print(sum_two(1,2))
+
+print(sum_two("hello"," world"))
+
+
+
+
 
 
 

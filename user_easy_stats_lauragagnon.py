@@ -35,7 +35,7 @@ logger.info(f"mean   = {mean:.2f}")
 logger.info(f"median = {median:.2f}")
 logger.info(f"mode   = {mode:.2f}")
 
-# Descriptive: Measures of spread
+# Descriptive: Measures of spread 
 
 var = statistics.variance(uni_data)
 stdev = statistics.stdev(uni_data)

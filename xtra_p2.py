@@ -54,13 +54,14 @@ def sum_two(x,y):
     sum = x + y
     return sum
 
-print(sum_two(1,2))
+logger.info(f" the sum of 1 + 2 is {sum_two(1,2)}")
 
 
 #sum_two("hello"," world")
 #'hello world'
 
-print(sum_two("hello"," world"))
+logger.info({sum_two("hello", "world")})
+
 
 #sum_rectangle_list( [1,1,3,3] )
 #8
@@ -68,13 +69,12 @@ print(sum_two("hello"," world"))
 def sum_rectangle_list(list1):
     return sum(list1)
 
-print(sum_rectangle_list([1,1,3,3]))
+logger.info(f" the sum of a rectangle list is {sum_rectangle_list([1,1,3,3])}")
 
 
 
 #transform_using_keyword_args_with_default_values()
 #'bea'
-
 
 
 #transform_using_keyword_args_with_default_values(reverse=True)

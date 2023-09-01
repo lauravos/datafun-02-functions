@@ -46,13 +46,48 @@ logger, logname = setup_logger(__file__)
 # TODO: Log each time the function is called (along with its arguments)
 # TODO: Log the result of each function just before you return the result
 
-def sum_two(number_1, number_2):
-    sum = number_1 + number_2
-    return sum 
+
+#sum_two(1,2)
+#3
+
+def sum_two(x,y):
+    sum = x + y
+    return sum
 
 print(sum_two(1,2))
 
+
+#sum_two("hello"," world")
+#'hello world'
+
 print(sum_two("hello"," world"))
+
+#sum_rectangle_list( [1,1,3,3] )
+#8
+
+def sum_rectangle_list(list1):
+    return sum(list1)
+
+print(sum_rectangle_list([1,1,3,3]))
+
+
+
+#transform_using_keyword_args_with_default_values()
+#'bea'
+
+
+
+#transform_using_keyword_args_with_default_values(reverse=True)
+#'aeb'
+
+#transform_using_keyword_args_with_default_values(input="hello", reverse=True)
+#'leh'
+
+#sum_any_using_args(1,1,1,2)
+#5
+
+#sum_any_with_keyword_arguments_kwargs(a=1,b=2,c=3)
+#6
 
 
 

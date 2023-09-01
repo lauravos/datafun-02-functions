@@ -1,0 +1,23 @@
+2023-09-01 16:08:05,204.user_easy_stats_lauragagnon.INFO ==================================================
+2023-09-01 16:08:05,204.user_easy_stats_lauragagnon.INFO Today is 2023-09-01 at 04:08 PM
+2023-09-01 16:08:05,244.user_easy_stats_lauragagnon.INFO Running on: nt Windows 10
+2023-09-01 16:08:05,244.user_easy_stats_lauragagnon.INFO Python version:  3.11.4
+2023-09-01 16:08:05,244.user_easy_stats_lauragagnon.INFO Python path: C:\Users\laura\AppData\Local\Programs\Python\Python311
+2023-09-01 16:08:05,244.user_easy_stats_lauragagnon.INFO Working dir: C:\Users\laura\OneDrive\Documents\datafun-02-functions-main\datafun-02-functions\datafun-02-functions
+2023-09-01 16:08:05,244.user_easy_stats_lauragagnon.INFO ==================================================
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO uni_data = [9609, 9637, 8119, 11924, 12399, 11821, 10634]
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO mean   = 10591.86
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO median = 10634.00
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO mode   = 9609.00
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO var    = 2424286.81
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO stdev  = 1557.01
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO lowest = 8119
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO highest= 12399
+2023-09-01 16:08:05,260.user_easy_stats_lauragagnon.INFO range = 4280
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.WARNING Correlation requires Python version 3.10 or greater.
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.WARNING Your version is 3.11
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.INFO Here's some annual data:
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.INFO xyear:[2016, 2017, 2018, 2019, 2020, 2021, 2022]
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.INFO yvalues:[10634, 11821, 12399, 11924, 8119, 9637, 9609]
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.INFO correlation between xyear and xyear = 1.00
+2023-09-01 16:08:05,268.user_easy_stats_lauragagnon.INFO correlation between xyear and yvalues = -0.58

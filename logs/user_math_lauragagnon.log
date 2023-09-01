@@ -1,0 +1,25 @@
+2023-09-01 17:15:44,137.user_math_lauragagnon.INFO ==================================================
+2023-09-01 17:15:44,137.user_math_lauragagnon.INFO Today is 2023-09-01 at 05:15 PM
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO Running on: nt Windows 10
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO Python version:  3.11.4
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO Python path: C:\Users\laura\AppData\Local\Programs\Python\Python311
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO Working dir: C:\Users\laura\OneDrive\Documents\datafun-02-functions-main\datafun-02-functions\datafun-02-functions
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO ==================================================
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO Explore some functions in the math module
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO math.comb(5,1) = 5
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO math.perm(5,1) = 5
+2023-09-01 17:15:44,181.user_math_lauragagnon.INFO math.comb(5,3) = 10
+2023-09-01 17:15:44,185.user_math_lauragagnon.INFO math.perm(5,3) = 60
+2023-09-01 17:15:44,185.user_math_lauragagnon.INFO math.comb(4,2) = 6
+2023-09-01 17:15:44,185.user_math_lauragagnon.INFO math.perm(1,9) = 0
+2023-09-01 17:15:44,185.user_math_lauragagnon.INFO math.comb(3,8) = 0
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO math.perm(4,5) = 0
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO get_area_of_room(6,2) = 12
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO get_area_of_room(20,4) = 80
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO get_area_of_room(16,15) = 240
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO 3 inches converted to cm = 7.62 cm
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO 2 feet converted to inches = 24 inches
+2023-09-01 17:15:44,187.user_math_lauragagnon.INFO The cost of food is 36
+2023-09-01 17:15:44,189.user_math_lauragagnon.INFO 4.32 rounded down = 4
+2023-09-01 17:15:44,189.user_math_lauragagnon.INFO 9.463 = 10
+2023-09-01 17:15:44,189.user_math_lauragagnon.INFO the absolute value of -6.2 is 6.2

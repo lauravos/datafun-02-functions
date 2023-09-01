@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
     name1 = "Cats_A"
     units1 = "lbs"
-    data1 = [9.6, 11.9, 10.0]
+    data1 = [9.6, 11.9, 10.0, 13.5]
     breed = "tabby"
 
     object1 = NumericCatSeries(name1, units1, data1, breed)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
   
     name2 = "Cats_B"
     units2 = "lbs"
-    data2 = [16.4, 15.3, 20.1]
+    data2 = [16.4, 15.3, 20.1, 23.2]
     breed2 = "Maine Coon"
 
     object2 = NumericCatSeries(name2, units2, data2, breed2)
@@ -92,7 +92,7 @@ if __name__ == "__main__":
     
     # Create another object 
 
-    data3 = [13.7, 9.3, 12.8]
+    data3 = [13.7, 9.3, 12.8, 14.1]
     name3 = "Cats_C"
     units3 = "lbs"
     breed3 = "Siamese"
